@@ -1,0 +1,6 @@
+*.txt
+*.inc
+build/
+nbproject
+Makefile
+*.exe
